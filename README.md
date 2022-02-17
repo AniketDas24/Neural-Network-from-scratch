@@ -1,6 +1,6 @@
 ***Neural Network Implementation for XOR Gate Using Numpy***
 
-*An artifical neural net built from scratch using only pure mathematical concepts and using the numpy python library*
+*An artifical neural net built from scratch using only pure mathematical concepts and numpy python library*
 
 **Structure of the network**
  
